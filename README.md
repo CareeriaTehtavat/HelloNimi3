@@ -12,7 +12,11 @@
 ```
 Mikä on nimesi?
 Pekka
-Hello Pekka!
+Mikä on ikä?
+13
+Mikä on kaupunkisi?
+Helsinki
+Nimesi on Pekka, ja olet 13 vuotta vanha. Kotikaupunki: Helsinki
 ```
 
 > [!IMPORTANT]
